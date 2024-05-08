@@ -72,6 +72,7 @@ public class DnD {
 	/**
 	 * Initialize the contents of the frame.
 	 */
+	// objetos del programa:
 	private void initialize() {
 		values = new HashMap<>();
 		frmDd = new JFrame();
